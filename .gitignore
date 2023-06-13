@@ -1,0 +1,42 @@
+# Dependency directories #
+#########################
+/node_modules/
+/bower_components/
+
+# Build output #
+###############
+/dist/
+/build/
+
+# IDE / Editor files #
+######################
+.vscode/
+.idea/
+
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+
+# Logs and databases #
+#####################
+*.log
+*.sqlite
+*.db
+
+# Testing #
+##########
+/coverage/
+
+# Miscellaneous #
+#################
+*.tmp
+*.bak
+*.swp
+*.out
+.env.local
+
+# Ignore files for custom configurations #
+#########################################
+# Add your own rules here
+*.bin
